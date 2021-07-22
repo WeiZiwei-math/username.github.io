@@ -15,9 +15,9 @@ Here is my CV.
 
 Here is some notes written for studying and some seminars.
 
-<a href="https://weiziwei-math.github.io/Notes/A-Brief-Introduction-to-Category-Theory.pdf/">A Brief Introduction to Category Theory</a>
+<a href="https://weiziwei-math.github.io/Notes/A-Brief-Introduction-to-Category-Theory.pdf">A Brief Introduction to Category Theory</a>
 
-<a href="https://weiziwei-math.github.io/Notes/Grassmannians.pdf/">Grassmannians</a>
+<a href="https://weiziwei-math.github.io/Notes/Grassmannians.pdf">Grassmannians</a>
 
 <a href="https://weiziwei-math.github.io/Notes/Classification-of-root-systems.pdf">Classification of root systems</a>
 
