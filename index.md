@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to Ziwei Wei's Page!
 
-You can use the [editor on GitHub](https://github.com/WeiZiwei-math/Weiziwei-math.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Email: weiziwei {at} mail.sdu.edu.cn
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a student at school of mathematics of shandong university starting from Sept 2020. I was a student at school of energy and power engineering of shandong university during Sept 2019-June 2020
 
-### Markdown
+### Study Interest
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I am interested in the geometric representation theory and mathematical physic, especially quiver varieties and Coulomb branches of 3d supersymmetric gauge theories(But I know very little about them for now). I am also interested in algebraic geometry, semi-classical analysis and so on. And I am also willing to study geometric Langlands.
 
-```markdown
-Syntax highlighted code block
+Here is my CV.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+### Notes
 
-1. Numbered
-2. List
+Here is some notes written for studying and some seminars.
 
-**Bold** and _Italic_ and `Code` text
+[A Brief Introduction to Category Theory](https://Weiziwei-math.github.io/Notes/A Brief Introduction to Category Theory.pdf/)
 
-[Link](url) and ![Image](src)
-```
+[Grassmannians](https://Weiziwei-math.github.io/Notes/Grassmannians.pdf/)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[Classification of root systems](https://Weiziwei-math.github.io/Notes/Classification of root systems.pdf/)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WeiZiwei-math/Weiziwei-math.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
